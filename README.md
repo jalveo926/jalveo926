@@ -1,23 +1,84 @@
-# Resumen para curiosos 👋🏼
+# Jesús Alveo  
+Backend Developer | Java & Spring Boot  
 
-Mi nombre es Jesús Alveo y actualmente estoy cursando la licenciatura de Desarrollo y Gestión de Software en la Universidad tecnológica de Panamá, me entusiasma la programación y el mundo de la tecnología en general. 
+## 👋 About Me
 
-## Habilidades blandas 🎩
-* Responsabilidad 
-* Liderazgo
-* Análisis
+I'm a Software Development and Management student at the Universidad Tecnológica de Panamá, focused on backend engineering and building robust, scalable systems.
 
-## Habilidades duras 🤖
-* Inglés
-* programación estructurada y orientada a objetos (c,c++,java)
-* Conocimientos en ciberseguridad
-* Git y Github
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+My main interest lies in backend development using Java and Spring Boot, applying clean architecture principles, secure coding practices, and containerized environments.
 
-### 🌱 Actualmente estoy aprendiendo sobre ciberseguridad y javascript 
+I aim to design systems that are maintainable, secure, and production-ready.
 
-## Conectar 💡
-Estoy siempre abierto a consejos, recomendaciones y conexiones. Si te gustaría charlar o colaborar en algún proyecto, sientete libre de contactarme.
-📫 jesusalveou926@gmail.com
+---
 
+## 🧠 Technical Focus
 
+- Backend development with Java & Spring Boot
+- RESTful API design
+- Secure application configuration
+- Containerization with Docker
+- Linux-based development environments
+- Version control and collaborative workflows with Git
+- Relational database design and data modeling
+- Foundations of cybersecurity applied to backend systems
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- JSON processing
+
+### Databases
+- SQL
+- Relational database design
+- Entity-Relationship modeling
+- Normalization
+- Basic experience with MySQL / SQL Server
+
+### DevOps & Environment
+- Docker
+- Linux
+- Git
+- GitHub
+
+### Frontend (Complementary Skills)
+- HTML
+- CSS
+- JavaScript
+- Angular (foundational knowledge)
+
+### Programming Foundations
+- Structured Programming (C)
+- Object-Oriented Programming (Java, C++, C#)
+
+---
+
+## 🚀 Current Learning Path
+
+- Advanced Spring Boot architecture
+- Secure configuration management
+- Backend best practices
+- API performance optimization
+- Container orchestration fundamentals
+- Java ecosystem tooling
+
+---
+
+## 🎯 Professional Interests
+
+- Backend system design
+- Clean code & maintainable architecture
+- Secure API development
+- Scalable web services
+- Continuous improvement as a software engineer
+
+---
+
+## 📫 Contact
+
+Email: jesusalveou926@gmail.com  
+Open to collaboration, backend projects, and technical discussions.
